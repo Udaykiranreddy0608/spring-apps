@@ -15,3 +15,10 @@ This project consists of the following Spring applications:
 | spring_eureka (server)    | 8761  |
 | spring_zuul_gateway       | 8762  | 
 
+
+### References 
+
+- Create any Spring app with Spring Initializer best way to start with - https://start.spring.io/
+- Eureka service discovery - https://spring.io/guides/gs/service-registration-and-discovery/
+- Zuul gateway implementation - https://spring.io/guides/gs/routing-and-filtering/
+
